@@ -47,13 +47,13 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "Fraternidad Universal",
+      position: "Freelancer",
+      //startDate: "Feb 2017",
+      //endDate: "May 2018",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "Desarrollo de una plataforma web informativa para el proyecto Fraternidad Universal, enfocada en la publicación de noticias y contenidos relacionados con temas religiosos y filosóficos. ",
+        "El objetivo principal fue crear un sitio claro, ligero y fácil de navegar, que permitiera comunicar información de forma ordenada y accesible al público.",
       ],
     },
     {
