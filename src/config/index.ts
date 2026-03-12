@@ -13,11 +13,11 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    { text: "X", href: "x.com/?lang=es" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/eduardoruizperez14/" },
+    { text: "Github", href: "https://github.com/Dereckz" },
+    { text: "Youtube", href: "https://www.youtube.com/@eduardoruiz4990" },
+    { text: "Dribbble", href: "https://dribbble.com" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
@@ -44,6 +44,8 @@ export const SITE_CONTENT: SiteContent = {
         "•	Psicología",
         "•	Finanzas",
         "•	Desarrollo personal y profesional",   
+      
+
       ],
     },
     {
@@ -67,34 +69,34 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      name: "Impulsora Mexicana De Productividad Laboral A.C.",
+      summary: "Plataforma de cursos en línea.",
+      linkPreview: "http://valuacionproductiva.mx",
+      linkSource: "https://github.com/Dereckz/vproductiva",
+      image: "/imp1.png",
     },
     {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      name: "Fraternidad Universal",
+      summary: "Plataforma web informativa para el proyecto Fraternidad Universal, enfocada en la publicación de noticias y contenidos relacionados con temas religiosos y filosóficos.",
+      linkPreview: "https://fraternidadmundial.com/",
+      linkSource: "https://github.com/Dereckz/fraternidadmundial",
+      image: "/funiver.png",
     },
     {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      name: "CARASOFT Soluciones Tecnológicas",
+      summary: "Página web informativa (homepage) para Carasoft, enfocada en presentar sus servicios de soluciones tecnológicas de manera clara, profesional y accesible para sus clientes.",
+      linkPreview: "https://carasoftweb.com/ ",
+      linkSource: "https://github.com/",
+      image: "/carasoft.png",
     },
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
+      Hola, soy Eduardo Ruiz, un apasionado desarrollador web y móvil con un don para crear experiencias digitales fluidas. Con una sólida experiencia en desarrollo para Android e iOS, así como en tecnologías web front-end, me desenvuelvo en la intersección entre la creatividad y la tecnología.
 
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+A lo largo de los años, he perfeccionado mis habilidades para crear aplicaciones robustas e intuitivas que no solo satisfacen las necesidades de los usuarios, sino que también superan los límites de lo posible. Mis proyectos abarcan desde aplicaciones móviles innovadoras hasta diseños web responsivos, todos con un enfoque en el rendimiento, la seguridad y la escalabilidad.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/RUPE_BIG.jpg",
   },
 };
 
