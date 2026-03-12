@@ -6,14 +6,14 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Ingeniero en Tecnologías de la Información y comunicaciones. Especializado en Sistemas de Escritorio, Aplicaciones Web y Móviles.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/RUPE_BIG.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "X", href: "x.com/?lang=es" },
+    { text: "X", href: "https://x.com/?lang=es" },
     { text: "LinkedIn", href: "https://www.linkedin.com/in/eduardoruizperez14/" },
     { text: "Github", href: "https://github.com/Dereckz" },
     { text: "Youtube", href: "https://www.youtube.com/@eduardoruiz4990" },
