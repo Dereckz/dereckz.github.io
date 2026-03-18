@@ -69,6 +69,13 @@ export const SITE_CONTENT: SiteContent = {
       image: "/imp1.png",
     },
     {
+      name: "Silverpeak SA de CV",
+      summary: "Plataforma de reigstros y descargas de recibos de nomina de trabajadores.",
+      linkPreview: "https://silverpeaklogistics.com/ ",
+      linkSource: "https://github.com/Dereckz/kioskosilver",
+      image: "/spc.png",
+    },
+    {
       name: "Fraternidad Universal",
       summary: "Plataforma web informativa para el proyecto Fraternidad Universal, enfocada en la publicación de noticias y contenidos relacionados con temas religiosos y filosóficos.",
       linkPreview: "https://fraternidadmundial.com/",
